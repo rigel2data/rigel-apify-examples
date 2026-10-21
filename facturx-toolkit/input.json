@@ -1,0 +1,9 @@
+{
+  "mode": "validate",
+  "documents": [
+    {
+      "url": "https://raw.githubusercontent.com/ZUGFeRD/corpus/master/ZUGFeRDv2/correct/FNFE-factur-x-examples/Facture_FR_BASICWL.pdf"
+    }
+  ],
+  "frenchCtcRules": true
+}

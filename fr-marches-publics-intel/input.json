@@ -1,0 +1,13 @@
+{
+  "mode": "tenders",
+  "keywords": [
+    "maintenance",
+    "informatique"
+  ],
+  "departments": [
+    "69"
+  ],
+  "publishedWithinDays": 7,
+  "openOnly": true,
+  "maxItems": 20
+}

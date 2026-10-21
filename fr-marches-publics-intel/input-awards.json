@@ -1,0 +1,13 @@
+{
+  "mode": "awards",
+  "cpvPrefixes": [
+    "72"
+  ],
+  "departments": [
+    "33"
+  ],
+  "awardedSince": "2026-01-01",
+  "minAmountEur": 20000,
+  "topWinners": 5,
+  "maxItems": 20
+}

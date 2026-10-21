@@ -1,0 +1,13 @@
+{
+  "urls": [
+    {
+      "url": "https://example.com/"
+    }
+  ],
+  "formats": [
+    "png",
+    "pdf"
+  ],
+  "fullPage": true,
+  "device": "desktop"
+}
